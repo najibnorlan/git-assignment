@@ -1,1 +1,2 @@
 Hello, Git world!
+add new feature
