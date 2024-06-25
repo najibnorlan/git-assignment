@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, Git world!
 add new button
+=======
+Hello, Git world!
+>>>>>>> main
